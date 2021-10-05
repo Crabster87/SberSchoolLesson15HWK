@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SberSchoolLesson15HWK</string>
+    <string name="radio_button_add_fragment">Add fragment</string>
+    <string name="radio_button_replace_fragment">Replace fragment</string>
+    <string name="check_box_add_fragment_to_backstack">Add fragment to backstack</string>
+    <string name="button_add">ADD</string>
+    <string name="button_remove">REMOVE</string>
+    <string name="count_of_fragments_in_backstack">COUNT OF FRAGMENTS IN BACKSTACK \n%1$d</string>
+</resources>
